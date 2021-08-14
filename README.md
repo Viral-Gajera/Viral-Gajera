@@ -8,8 +8,6 @@
 ![Viral's GitHub stats](https://github-readme-stats.vercel.app/api?username=Viral-Gajera&show_icons=true)
 
 
-<br />
-
 ## Languages and Tools:
 
 most frequently i use following tool and language . . .<br><br>
