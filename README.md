@@ -6,7 +6,7 @@
 
 ---
 
-![Viral's GitHub stats](https://github-readme-stats.vercel.app/api?username=Viral-Gajera&show_icons=true&theme=dark)
+![Viral's GitHub stats](https://github-readme-stats.vercel.app/api?username=Viral-Gajera&show_icons=true&theme=tokyonight)
 
 
 <!---
