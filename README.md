@@ -1,8 +1,5 @@
 #  👋 Hi, I’m Viral Gajera...
 
-<br />
-
-
 ## About me 🚀
 * I’m pursuing my Bachelors in Computer Engineering.
 * I'm currently learing java , android, . . .
@@ -12,7 +9,6 @@
 
 
 <br />
-
 
 ## Languages and Tools:
 
