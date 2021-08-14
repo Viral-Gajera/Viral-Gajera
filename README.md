@@ -10,7 +10,7 @@
 
 ## Languages and Tools:
 
-most frequently i use following tool and language . . .<br><br>
+most frequently i use following tool and language . . .<br>
 
 <!-- tool and language icon -->
 <img align="left" alt="Java" width="50px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/java/java.png" />
