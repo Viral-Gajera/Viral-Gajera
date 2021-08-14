@@ -5,7 +5,7 @@
 * I'm currently learing java,android,..... 
 
 
-[![Viral's GitHub stats](https://github-readme-stats.vercel.app/api?username=Viral-Gajera)](https://github.com/Viral-Gajera/github-readme-stats)
+[![Viral's GitHub stats](https://github-readme-stats.vercel.app/api?username=Viral-Gajera)]
 
 
 <!---
