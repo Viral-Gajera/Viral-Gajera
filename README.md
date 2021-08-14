@@ -1,6 +1,9 @@
-- 👋 Hi, I’m Viral Gajera
-- 👀 I’m interested in web devlopment,java,etc...
-- 🌱 I’m currently learning node.js,java,..
+#  👋 Hi, I’m Viral Gajera...
+
+**About me 🚀**
+* I’m pursuing my Bachelors in Computer Engineering.
+* I'm currently learing java,android,..... 
+
 
 <!---
 Viral-Gajera/Viral-Gajera is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
