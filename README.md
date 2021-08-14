@@ -8,7 +8,7 @@
 ![Viral's GitHub stats](https://github-readme-stats.vercel.app/api?username=Viral-Gajera&show_icons=true)
 
 <!-- activity graph -->
- ![github activity graph](https://activity-graph.herokuapp.com/graph?username=Viral-Gajera&theme=github&layout=compact&title_color=FF69B4&hide_border=true&area=true)
+ ![github activity graph](https://activity-graph.herokuapp.com/graph?username=Viral-Gajera&theme=minimal&layout=compact&title_color=FF69B4&hide_border=true&area=true)
 </div>
 
 
