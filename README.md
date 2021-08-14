@@ -1,6 +1,12 @@
 # Hi <img width="30px" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" />, I’m Viral Gajera...
 
-## About me 🚀
+## About me 🚀 
+<br>
+
+<!-- typing text -->
+<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg) -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=L+e+a+r+n+i+n+g+.+.+.+.)](https://git.io/typing-svg)
+
 * I’m pursuing my Bachelors in Computer Engineering.
 * I'm currently learing java , android, . . .
 
