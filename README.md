@@ -1,5 +1,5 @@
 #  👋 Hi, I’m Viral Gajera...
-
+---
 ## About me 🚀
 * I’m pursuing my Bachelors in Computer Engineering.
 * I'm currently learing java , android, . . .
@@ -7,6 +7,7 @@
 <!-- my git hub stats -->
 ![Viral's GitHub stats](https://github-readme-stats.vercel.app/api?username=Viral-Gajera&show_icons=true)
 
+---
 ## Languages and Tools:
 
 most frequently i use following tool and language . . .
