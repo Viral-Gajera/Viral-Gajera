@@ -40,7 +40,7 @@ most frequently i use following tool and language . . .<br><br>
 
 
 <!-- most used language -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Viral-Gajera&hide=TeX)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Viral-Gajera&hide=TeX)
 
 
 <!-- recant git hub activity -->
