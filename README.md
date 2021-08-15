@@ -8,7 +8,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=L+e+a+r+n+i+n+g+.+.+.+.&color=5094f0)](https://git.io/typing-svg)
 
 * I’m pursuing my Bachelors in Computer Engineering.
-* I'm currently learing java , android, . . .
+* I'm currently learing **java** , android, . . .
 
 <!-- git hub stats -->
 ![Viral's GitHub stats](https://github-readme-stats.vercel.app/api?username=Viral-Gajera&show_icons=true)
