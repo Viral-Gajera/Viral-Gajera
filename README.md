@@ -5,7 +5,7 @@
 
 <!-- typing text -->
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg) -->
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=L+e+a+r+n+i+n+g+.+.+.;F+o+c+u+s+i+n+g+.+.+.&color=5094f0)
+<!-- ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=L+e+a+r+n+i+n+g+.+.+.;F+o+c+u+s+i+n+g+.+.+.&color=5094f0) -->
 
 * 🌱 I’m pursuing my Bachelors in Computer Engineering.
 * 🔭 I'm currently learing **C** , DSA, . . .
