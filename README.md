@@ -17,7 +17,7 @@
 </a>
 
 
-<a href="mailto:viral.gajera218@gmail.com">
+<a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=viral.gajera218@gmail.com">
 <img align="left" alt="Java" width="30px" src="https://github.com/Viral-Gajera/Viral-Gajera/blob/main/icon/gmail_logo.jpg?raw=true" />
 </a>
 
