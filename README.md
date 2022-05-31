@@ -11,6 +11,25 @@
 * 🔭 I'm currently learing javaScript , Node.js, . . .
 * 📝 I like Web Devlopment.
 
+## contact me at:
+<a href="https://www.linkedin.com/in/viral-gajera-03798722b/">
+<img align="left" alt="Java" width="30px" src="https://github.com/Viral-Gajera/Viral-Gajera/blob/main/icon/LinkedIn_logo.jpg?raw=true" />
+</a>
+
+
+<a href="mailto:viral.gajera218@gmail.com">
+<img align="left" alt="Java" width="30px" src="https://github.com/Viral-Gajera/Viral-Gajera/blob/main/icon/gmail_logo.jpg?raw=true" />
+</a>
+
+<a href="https://twitter.com/ViralGajera218">
+<img align="left" alt="Java" width="30px" src="https://github.com/Viral-Gajera/Viral-Gajera/blob/main/icon/twitter_logo.jpg?raw=true" />
+</a>
+
+
+<br>
+<br>
+<br>
+
 <!-- git hub stats -->
 ![Viral's GitHub stats](https://github-readme-stats.vercel.app/api?username=Viral-Gajera&show_icons=true)
 
@@ -50,7 +69,7 @@ most frequently i use following tool and language . . .<br><br>
 <!-- <img align="left" alt="Android" width="30px" src="https://github.com/Viral-Gajera/Viral-Gajera/blob/d5591868c4d8e0e06fd80386fda72e2e453a4ec9/icon/Android_Studio_Icon_(2014-2019).svg.png" /> -->
 
 <!-- java icon -->
-<!-- <img align="left" alt="Java" width="30px" src="https://github.com/Viral-Gajera/Viral-Gajera/blob/d1d34a1bf942b7c38086a8e3db2c5a868e03e43f/icon/java_icon.png" /> -->
+<img align="left" alt="Java" width="30px" src="https://github.com/Viral-Gajera/Viral-Gajera/blob/d1d34a1bf942b7c38086a8e3db2c5a868e03e43f/icon/java_icon.png" />
 
 
 
