@@ -9,6 +9,7 @@
 
 * 🌱 I’m pursuing my Bachelors in Computer Engineering.
 * 🔭 I'm currently learing javaScript , Node.js, . . .
+* 🚀 I am interested in MERN.
 * 📝 I like Web Devlopment.
 
 ## contact me at:
