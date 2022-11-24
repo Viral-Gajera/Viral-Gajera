@@ -8,7 +8,7 @@
 <!-- ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=L+e+a+r+n+i+n+g+.+.+.;F+o+c+u+s+i+n+g+.+.+.&color=5094f0) -->
 
 * 🌱 I’m pursuing my Bachelors in Computer Engineering.
-* 🔭 I'm currently learing React , Node.js, . . .
+* 🔭 I'm currently learing React.js , Node.js, . . .
 * 🚀 I am interested in MERN.
 * 📝 I like Web Devlopment.
 
