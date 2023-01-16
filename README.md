@@ -32,14 +32,14 @@
 <br>
 
 <!-- git hub stats -->
-![Viral's GitHub stats](https://github-readme-stats.vercel.app/api?username=Viral-Gajera&show_icons=true)
+<!-- ![Viral's GitHub stats](https://github-readme-stats.vercel.app/api?username=Viral-Gajera&show_icons=true) -->
 
 
 <!-- activity graph -->
 <!-- ![github activity graph](https://activity-graph.herokuapp.com/graph?username=Viral-Gajera&theme=minimal&layout=compact&title_color=FF69B4&hide_border=true&area=true) 
 -->
 
-![github activity graph](https://activity-graph.herokuapp.com/graph?username=Viral-Gajera&theme=minimal&custom_title=Activity%20Graph&hide_border=true&area=truelayout=compact)
+<!-- ![github activity graph](https://activity-graph.herokuapp.com/graph?username=Viral-Gajera&theme=minimal&custom_title=Activity%20Graph&hide_border=true&area=truelayout=compact) -->
 
 ## Languages and Tools:
 
@@ -83,12 +83,10 @@ most frequently i use following tool and language . . .<br><br>
 
 
 <!-- most used language -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Viral-Gajera&hide=TeX)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Viral-Gajera&hide=TeX) -->
 
 
 <!-- recant git hub activity -->
-
-
 
 
 <!-- waka time profile -->
