@@ -1,7 +1,7 @@
 # Hi <img width="30px" height="30px" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" />, I’m Viral Gajera...
 
 ## About me 🚀 
-<br>
+<!-- <br> -->
 
 <!-- typing text -->
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg) -->
@@ -27,9 +27,9 @@
 </a>
 
 
-<br>
-<br>
-<br>
+<!-- <br> -->
+<!-- <br> -->
+<!-- <br> -->
 
 <!-- git hub stats -->
 <!-- ![Viral's GitHub stats](https://github-readme-stats.vercel.app/api?username=Viral-Gajera&show_icons=true) -->
@@ -76,9 +76,9 @@
 
 
 
-<br>
-<br>
-<br>
+<!-- <br> -->
+<!-- <br> -->
+<!-- <br> -->
 
 
 
