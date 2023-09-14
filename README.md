@@ -12,7 +12,7 @@
 * 🚀 I am interested in MERN.
 * 📝 I like Web Devlopment.
 
-## contact me at:
+<!--## contact me at:
 <a href="https://www.linkedin.com/in/viral-gajera-03798722b/">
 <img align="left" alt="Java" width="30px" src="https://github.com/Viral-Gajera/Viral-Gajera/blob/main/icon/LinkedIn_logo.jpg?raw=true" />
 </a>
@@ -25,7 +25,7 @@
 <a href="https://twitter.com/ViralGajera218">
 <img align="left" alt="Java" width="30px" src="https://github.com/Viral-Gajera/Viral-Gajera/blob/main/icon/twitter_logo.jpg?raw=true" />
 </a>
-
+-->
 
 <!-- <br> -->
 <!-- <br> -->
