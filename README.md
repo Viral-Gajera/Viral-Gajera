@@ -7,10 +7,11 @@
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg) -->
 <!-- ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=L+e+a+r+n+i+n+g+.+.+.;F+o+c+u+s+i+n+g+.+.+.&color=5094f0) -->
 
-* 🌱 I’m pursued my Bachelors in Computer Engineering.
-* 🔭 I'm currently working in React.js , Node.js, . . .
+* 📝 I like Web Development.
 * 🚀 I am interested in MERN.
-* 📝 I like Web Devlopment.
+* 🔭 I'm currently working in React.js, Node.js, . . .
+* 🌱 CS'24 Pass Out.
+
 
 <!--## contact me at:
 <a href="https://www.linkedin.com/in/viral-gajera-03798722b/">
